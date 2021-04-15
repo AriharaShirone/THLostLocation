@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">东方丢位置</string>
+    <string name="previous">地图</string>
+    <string name="action_settings">设置</string>
+    <string name="first_fragment_label">碎片1</string>
+    <string name="second_fragment_label">碎片2</string>
+    <string name="fab_description">位置请求</string>
+    <string name="next">坐标</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="messages_header">地图设置</string>
+    <string name="reply_title">默认地图类型</string>
+    <string name="map_status_normal">普通地图</string>
+    <string name="map_status_satellite">卫星地图</string>
+</resources>

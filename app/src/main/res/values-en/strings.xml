@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">THLostLocation</string>
+    <string name="first_fragment_label">Fragment1</string>
+    <string name="second_fragment_label">Fragment2</string>
+    <string name="next">Location</string>
+    <string name="fab_description">Location Request</string>
+    <string name="previous">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="messages_header">Map Settings</string>
+    <string name="reply_title">Default Map</string>
+    <string name="map_status_normal">Normal Map</string>
+    <string name="map_status_satellite">Satellite Map</string>
+</resources>
